@@ -1,6 +1,6 @@
 Данный репозиторий содержит выполненное задание по Django. Само задание - в файле specification.txt.
 
-<img src="(https://github.com/hevben/country_site/blob/main/img1.png?raw=true" data-canonical-src="[https://github.com/hevben/country_site/blob/main/img1.png?raw=true](https://github.com/hevben/country_site/blob/main/img1.png?raw=true)" width="200"/>
+<img src="(https://github.com/hevben/country_site/blob/main/img1.png?raw=true" width="200"/>
 
 ![alt text](https://github.com/hevben/country_site/blob/main/img1.png?raw=true)
 ![alt text](https://github.com/hevben/country_site/blob/main/img2.png?raw=true)
